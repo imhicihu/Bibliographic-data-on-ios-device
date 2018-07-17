@@ -5,40 +5,32 @@ Some efforts are done meanwhile the [Android app](https://bitbucket.org/imhicihu
 ### What is this repository for? ###
 
 * Quick summary
-    - 
-* Version 1.01
+    - Taskforce: use FileMaker Go technology, we plan to deploy an app that shows up the Bibliographical database of the institution.
+* Version 1.1
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - 
+    - _In the making_
 * Configuration
-    - 
+    - _In the making_
 * Dependencies
-    - 
+    - [FileMaker Go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8)
 * Database configuration
-    - 
+    - Just download our app and open up with FileMaker Go
 * How to run tests
-    - 
+    - No need to run tests. This is a closed application. 
 * Deployment instructions
-    - 
+    - Just download our app and open up with FileMaker Go on your iOS device
 
 ### Issues ###
 
-* Check them on [here](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/issues?status=new&status=open)
+* Check them on [here](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/issues)
 
 ### Changelog ###
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/commits/https://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/commits/) section for the current status
 
-### Contribution guidelines ###
-
-* Writing tests
-    - 
-* Code review
-    - 
-* Other guidelines
-    - 
 
 ### Who do I talk to? ###
 
@@ -51,7 +43,3 @@ Some efforts are done meanwhile the [Android app](https://bitbucket.org/imhicihu
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
-
-### License ###
-
-* The content of this project itself is licensed under the {XXXXXXXXXXXXXX}
