@@ -12,3 +12,4 @@
 
 * Online tools
     - [OpenRefine](http://openrefine.org/)
+    - [Smash](https://www.fromsmash.com/): unlimited moving/transfer of digital assets
