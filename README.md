@@ -1,3 +1,5 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
 # RATIONALE #
 
 Some efforts are done meanwhile the [Android app](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app) is _in the making_
