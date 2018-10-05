@@ -13,4 +13,4 @@
 * Online tools
     - [OpenRefine](http://openrefine.org/)
     - [Smash](https://www.fromsmash.com/): unlimited moving/transfer of digital assets
-    - [Plantuml]:(http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
+    - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
