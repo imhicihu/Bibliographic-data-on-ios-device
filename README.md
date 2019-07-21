@@ -1,13 +1,13 @@
-![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
 
 # RATIONALE #
 
-Some efforts are done meanwhile the [Android app](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app) is _in the making_
+* Some efforts are done meanwhile the [Android app](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app) is _in the making_
 
 ### What is this repository for? ###
 
 * Quick summary
-    - Taskforce: use FileMaker Go technology, we plan to deploy an app that shows up the Bibliographical database of the institution.
+    - Taskforce: use [FileMaker Go](https://apps.apple.com/app/filemaker-go-17/id1274628191) technology, we plan to deploy an app that shows up the Bibliographical database of the institution.
 * Version 1.1
 
 ### How do I get set up? ###
@@ -39,7 +39,7 @@ Some efforts are done meanwhile the [Android app](https://bitbucket.org/imhicihu
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/XXXXXXXXXXXX/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
+    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 
 ### Legal ###
