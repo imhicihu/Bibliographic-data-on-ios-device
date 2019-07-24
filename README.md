@@ -7,23 +7,31 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - Taskforce: use [FileMaker Go](https://apps.apple.com/app/filemaker-go-17/id1274628191) technology, we plan to deploy an app that shows up the Bibliographical database of the institution.
+    - Taskforce: use [FileMaker Go](https://apps.apple.com/app/filemaker-go-17/id1274628191) technology, we plan to deploy an app that shows up the [Bibliographical database](https://bitbucket.org/imhicihu/terrae-database/src/master/) of the institution.
 * Version 1.1
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - _In the making_
+    - Download [FileMaker Go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8). Then open our database from `Downloads` section and begin to browse and search all the data offered
 * Configuration
-    - _In the making_
+    - There is no need to configure any settings beyond what the [iOS](https://wikipedia.org/wiki/IOS) offer according every iphone/ipad capabilities
 * Dependencies
     - [FileMaker Go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8)
 * Database configuration
-    - Just download our app and open up with FileMaker Go
+    - Just download our app and open up with [FileMaker Go](https://apps.apple.com/app/filemaker-go-17/id1274628191
 * How to run tests
     - No need to run tests. This is a closed application. 
 * Deployment instructions
     - Just download our app and open up with FileMaker Go on your iOS device
+
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Bibliographical Searcher - Standalone app](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/)
+     - [Database on mobile device](https://bitbucket.org/imhicihu/database-on-mobile-device/)
+     - [IMHICIHU Digital repository](https://bitbucket.org/digital_repository/imhicihu-digital-repository/)
+     - [Terrae database](https://bitbucket.org/imhicihu/terrae-database/src/master/)
 
 ### Issues ###
 
