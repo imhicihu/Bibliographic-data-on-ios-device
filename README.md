@@ -1,4 +1,6 @@
 ![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
+![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
+![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
 # RATIONALE #
 
@@ -40,7 +42,6 @@
 ### Changelog ###
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/commits/https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/commits/) section for the current status
-
 
 ### Who do I talk to? ###
 
