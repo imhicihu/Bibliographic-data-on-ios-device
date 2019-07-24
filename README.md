@@ -21,7 +21,7 @@
 * Dependencies
     - [FileMaker Go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8)
 * Database configuration
-    - Just download our app and open up with [FileMaker Go](https://apps.apple.com/app/filemaker-go-17/id1274628191
+    - Just download our app and open up with [FileMaker Go](https://apps.apple.com/app/filemaker-go-17/id1274628191)
 * How to run tests
     - No need to run tests. This is a closed application. 
 * Deployment instructions
