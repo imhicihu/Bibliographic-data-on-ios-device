@@ -15,7 +15,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - Download [FileMaker Go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8). Then open our database from `Downloads` section and begin to browse and search all the data offered
+    - Download [FileMaker Go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8). Then open our [database](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/downloads/BibliotecaIMHICIHU.fmp12) from [`Downloads`](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/downloads/) section and begin to browse and search all the data offered
 
 ![search_query.gif](https://bitbucket.org/repo/649o7Ap/images/3335697373-2019-08-06%2014.10.26.gif)
 
@@ -29,7 +29,7 @@
 * How to run tests
     - No need to run tests. This is a closed application. You can't edit any record. Just queries.
 * Deployment instructions
-    - Just download our app and open up with FileMaker Go on your iOS device
+    - Just download our app and open up with [FileMaker Go](https://apps.apple.com/app/filemaker-go-17/id1274628191) on your iOS device
 
 ### Related repositories ###
 
