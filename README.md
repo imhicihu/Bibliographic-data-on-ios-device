@@ -16,6 +16,9 @@
 
 * Summary of set up
     - Download [FileMaker Go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8). Then open our database from `Downloads` section and begin to browse and search all the data offered
+
+![search_query.gif](https://bitbucket.org/repo/649o7Ap/images/3335697373-2019-08-06%2014.10.26.gif)
+
 * Configuration
     - There is no need to configure any settings beyond what the [iOS](https://wikipedia.org/wiki/IOS) offer according every iphone/ipad capabilities
     - Some previous tech frameworks explored can be found [here](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/issues/1/code-frameworks)
