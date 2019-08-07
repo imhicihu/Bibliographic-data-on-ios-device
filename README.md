@@ -5,6 +5,7 @@
 # RATIONALE #
 
 * Some efforts are done meanwhile the [Android app](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app) is _in the making_
+* This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
 
@@ -54,7 +55,6 @@
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
-
 
 ### Legal ###
 
