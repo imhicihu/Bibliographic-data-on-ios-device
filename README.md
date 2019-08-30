@@ -31,6 +31,10 @@
     - No need to run tests. This is a closed application. You can't edit any record. Just queries.
 * Deployment instructions
     - Just download our app and open up with [FileMaker Go](https://apps.apple.com/app/filemaker-go-17/id1274628191) on your iOS device
+    - Tested on this devices:
+        + Filemaker 16 (test passed)
+        + Filemaker 17 (test passed)
+        + Filemaker 18 (test passed)      
 
 ### Related repositories ###
 
