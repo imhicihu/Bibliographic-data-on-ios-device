@@ -40,7 +40,6 @@
 
 * Some repositories linked with this project:
      - [Bibliographical Searcher - Standalone app](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/)
-     - [Bibliographic data on iOS devices](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/)
      - [IMHICIHU Digital repository](https://bitbucket.org/digital_repository/imhicihu-digital-repository/)
      - [Terrae database](https://bitbucket.org/imhicihu/terrae-database/src/master/)
      - [WinIsis (migration)](https://bitbucket.org/imhicihu/winisis-migration/src/master/)
