@@ -18,6 +18,8 @@
         - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
     - GIT workflow
         - [SourceTree](https://www.sourcetreeapp.com/): GIT client
+    - Color palette
+        - [Flat UI colors](https://flatuicolors.com/)
 
 * Online tools
     - [OpenRefine](http://openrefine.org/)
