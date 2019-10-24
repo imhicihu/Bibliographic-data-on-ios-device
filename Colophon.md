@@ -25,6 +25,8 @@
     - [OpenRefine](http://openrefine.org/)
     - [Smash](https://www.fromsmash.com/): unlimited moving/transfer of digital assets
     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
+    - Plugins (curated and discriminated by topics)
+        - [Awesome design plugins](https://flawlessapp.io/designplugins)
     
 * Documentation
      - [Developer certificate](https://developercertificate.org/)
