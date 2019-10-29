@@ -22,7 +22,7 @@
 
 * Configuration
     - There is no need to configure any settings beyond what the [iOS](https://wikipedia.org/wiki/IOS) offer according every iphone/ipad capabilities
-    - Some previous tech frameworks explored can be found [here](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/issues/1/code-frameworks)
+    - _Off Topic_: Some previous tech frameworks explored can be found [here](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/issues/1/code-frameworks)
 * Dependencies
     - [FileMaker Go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8)
 * Database configuration
@@ -31,7 +31,7 @@
     - No need to run tests. This is a closed application. You can't edit any record. Just queries.
 * Deployment instructions
     - Just download our app and open up with [FileMaker Go](https://apps.apple.com/app/filemaker-go-17/id1274628191) on your iOS device
-    - Tested on this devices:
+    - [Tested](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/src/master/tests.md) on this devices:
         + Filemaker 16 (test passed)
         + Filemaker 17 (test passed)
         + Filemaker 18 (test passed)      
