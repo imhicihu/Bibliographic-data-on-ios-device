@@ -24,6 +24,7 @@
 * Online tools
     - [OpenRefine](http://openrefine.org/)
     - [Smash](https://www.fromsmash.com/): unlimited moving/transfer of digital assets
+    - [Javascript scripting](https://www.javascripting.com/): source of the best JavaScript libraries, frameworks, and plugins
     - Table converter
         - [Table convert](https://tableconvert.com/): converter to a plethora of formats
     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
