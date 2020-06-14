@@ -50,7 +50,7 @@
 
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/commits/https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/commits/) section for the current status
+* Please check the [Commits](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/commits/) section for the current status
 
 ### Who do I talk to? ###
 
