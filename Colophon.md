@@ -1,6 +1,7 @@
 * Hardware
     - a computer with a stable operating system. In this project we use this hardware:
         - Macbook 15"
+        - Ipad Pro
         - Ipad Air 2
         - ipod touch
         
@@ -20,6 +21,8 @@
         - [SourceTree](https://www.sourcetreeapp.com/): GIT client
     - Color palette
         - [Flat UI colors](https://flatuicolors.com/)
+    - Device simulator
+        - [Responsively App](https://github.com/manojVivek/responsively-app): device profiles simulator
 
 * Online tools
     - [OpenRefine](http://openrefine.org/)
