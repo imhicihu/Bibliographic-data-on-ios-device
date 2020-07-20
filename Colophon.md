@@ -14,7 +14,6 @@
     * Code editor
         - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
         - [Typora](https://typora.io/) (table editing, converting, formatting, exporting to markdown format)
-    - [Record it! Screen Recorder](https://apps.apple.com/co/app/record-it-screen-recorder/id1245356545): screen recorder on iOS environment for the sake of demonstration
     * Code sharing
         - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
     - GIT workflow
@@ -23,6 +22,8 @@
         - [Flat UI colors](https://flatuicolors.com/)
     - Device simulator
         - [Responsively App](https://github.com/manojVivek/responsively-app): device profiles simulator
+    - Screen capture (iOS platform)
+        - [Record it! Screen Recorder](https://apps.apple.com/co/app/record-it-screen-recorder/id1245356545): screen recorder on iOS environment for the sake of demonstration
 
 * Online tools
     - [OpenRefine](http://openrefine.org/)
