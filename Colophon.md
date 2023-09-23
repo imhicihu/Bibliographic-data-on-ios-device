@@ -1,5 +1,5 @@
 * Hardware
-    - a computer with a stable operating system. In this project we use this hardware:
+    - a computer with a stable operating system. In this project we used this hardware:
         - Macbook 15"
         - Ipad Pro
         - Ipad Air 2
@@ -32,11 +32,9 @@
     - Table converter
         - [Table convert](https://tableconvert.com/): converter to a plethora of formats
     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
-    - Plugins (curated and discriminated by topics)
-        - [Awesome design plugins](https://flawlessapp.io/designplugins)
     
 * Documentation
-     - [Developer certificate](https://developercertificate.org/)
+     - [Filemaker scripting reference](https://help.claris.com/en/pro-help/content/functions-reference.html)
      - *Addendum for Filemaker*: Addendum is an application that lists the functions, script steps, script triggers, error codes and glossary of FileMaker. More data can be found [here](https://apps.apple.com/es/app/addendum-for-filemaker/id1076169380)
 * ![screen_capture.png](https://bitbucket.org/repo/nk7jA86/images/3140685935-626x0w.png)
 
