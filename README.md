@@ -1,25 +1,23 @@
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![archived](images/3278295154-status_archived.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
 
 # RATIONALE #
 
-* Some efforts are done meanwhile the [Android app](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app) is _in the making_
+* This repository shows an inner project, an _in-house_ solution to track the bibliographical records from various databases mixed in just one file
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
 
 * Quick summary
     - Taskforce: use [FileMaker Go](https://apps.apple.com/app/filemaker-go-17/id1274628191) technology, we plan to deploy an app that shows up the [Bibliographical database](https://bitbucket.org/imhicihu/terrae-database/src/master/) of the institution.
-* Version 1.1
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - Download [FileMaker Go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8). Then open our [database](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/downloads/BibliotecaIMHICIHU.fmp12) from [`Downloads`](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/downloads/) section and begin to browse and search all the data offered
-
-![search_query.gif](https://bitbucket.org/repo/649o7Ap/images/3335697373-2019-08-06%2014.10.26.gif)
-
+    - Download [FileMaker Go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8). Then open our [database](downloads/BibliotecaIMHICIHU.fmp12) from [`Downloads`](/downloads/) section and begin to browse
+<BR></BR>
+![search_query.gif](images/3335697373-2019-08-06%2014.10.26.gif)
+<BR></BR>
 * Configuration
     - There is no need to configure any settings beyond what the [iOS](https://wikipedia.org/wiki/IOS) offer according every iphone/ipad capabilities
     - _Off Topic_: Some previous tech frameworks explored can be found [here](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/issues/1/code-frameworks)
@@ -56,12 +54,10 @@
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
