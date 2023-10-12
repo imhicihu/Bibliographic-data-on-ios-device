@@ -42,10 +42,6 @@
      - [Terrae database](https://bitbucket.org/imhicihu/terrae-database/src/master/)
      - [WinIsis (migration)](https://bitbucket.org/imhicihu/winisis-migration/src/master/)
 
-### Issues ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/issues)
-
 ### Changelog ###
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/commits/) section for the current status
