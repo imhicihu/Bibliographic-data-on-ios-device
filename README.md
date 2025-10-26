@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/fwO54uaTTquiaWjqGdQIoA.jpeg?raw=true" alt="Logotipo de Bibliographic-data-on-ios-device"/>
+</p>
+
 ![archived](images/3278295154-status_archived.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 
